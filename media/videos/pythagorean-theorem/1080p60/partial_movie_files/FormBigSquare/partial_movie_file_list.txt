@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/davi/projetos/poti-manim-animations/media/videos/pythagorean-theorem/1080p60/partial_movie_files/FormBigSquare/3529212410_542046076_223132457.mp4'
+file 'file:/home/davi/projetos/poti-manim-animations/media/videos/pythagorean-theorem/1080p60/partial_movie_files/FormBigSquare/3040924799_1444620803_1842966928.mp4'
+file 'file:/home/davi/projetos/poti-manim-animations/media/videos/pythagorean-theorem/1080p60/partial_movie_files/FormBigSquare/3040924799_2655740777_1314410691.mp4'
+file 'file:/home/davi/projetos/poti-manim-animations/media/videos/pythagorean-theorem/1080p60/partial_movie_files/FormBigSquare/3040924799_3086810165_4066301420.mp4'
+file 'file:/home/davi/projetos/poti-manim-animations/media/videos/pythagorean-theorem/1080p60/partial_movie_files/FormBigSquare/3040924799_2434871927_4155006023.mp4'
